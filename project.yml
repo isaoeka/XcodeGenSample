@@ -1,0 +1,10 @@
+name: XcodeGenSample
+options:
+  bundleIdPrefix: info.isaoeka
+  developmentLanguage: ja
+targets:
+  XcodeGenSample:
+    type: application
+    platform: iOS
+    deploymentTarget: "13.0"
+    sources: [XcodeGenSample]
